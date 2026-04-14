@@ -78,7 +78,7 @@ footer {
 Unul dintre cele mai vechi orașe din România, fostă capitală a Țării Românești.
 </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Curtea_de_Arges_Manastirea.jpg/800px-Curtea_de_Arges_Manastirea.jpg">
+<img src="oras.jpg">
 </section>
 
 <section id="personalitati">
